@@ -1,3 +1,3 @@
 #!/bin/bash
-SERVER="your.server.com"
-ssh -i ~/.ssh/school ubuntu@"$SERVER"
+#Connect to a server using SSH with a private key and user ubuntu 
+ssh -i ~/.ssh/school ubuntu@your-server
